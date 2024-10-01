@@ -11,7 +11,7 @@ from YoutubeTags import videotags
 BTNS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('ꜱᴜʙꜱᴄʀɪʙᴇ ᴍʏ ᴄʜᴀɴɴᴇʟ', url='https://t.me/team_netflix')
+            InlineKeyboardButton('ᴊᴏɪɴ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url='https://t.me/paid_method_zone')
         ]
     ]
 )
