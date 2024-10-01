@@ -2,7 +2,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/shakir04/Lucy-main.git /Lucy
+  git clone https://github.com/shakir04/AutoFilter.git /Lucy
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Lucy
