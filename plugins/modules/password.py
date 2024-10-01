@@ -12,5 +12,5 @@ async def password(bot, update):
     limit = int(qw)
     random_value = "".join(random.sample(password, limit))
     txt = f"<b>Limit:</b> {str(limit)} \n<b>Password: <code>{random_value}</code>"
-    btn = InlineKeyboardMarkup([[InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ 🔐', url='https://telegram.me/team_netflix')]])
+    btn = InlineKeyboardMarkup([[InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ 🔐', url='https://telegram.me/paid_method_zone')]])
     await message.edit_text(text=txt, reply_markup=btn, parse_mode=enums.ParseMode.HTML)
