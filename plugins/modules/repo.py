@@ -31,7 +31,7 @@ async def git(Kashmira, message):
 
 <b>Open Issues :</b> <i>{qw.get("open_issues")}</i>
 
-<b>Powered by :</b> @OtakuFlix_Network
+<b>Powered by :</b> @ᴍʀ_sʜᴀᴋɪʀ_𝟶𝟺
 """
         if qw.get("description"):
             txt += f'<b>Description :</b> <code>{qw.get("description")}</code>'
