@@ -48,7 +48,7 @@ async def who_is(bot, message):
 #    protect = "/pbatch" if PROTECT_CONTENT else "batch"
 #     mention = message.from_user.mention
 #     buttons = [[
-#         InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐆𝐫𝐨𝐮𝐩', url=f'http://t.me/movie7xchat')
+#         InlineKeyboardButton('𝐉𝐨𝐢𝐧 𝐆𝐫𝐨𝐮𝐩', url=f'http://t.me/paid_method_zone_discussion')
 #     ]]
 #    reply_markup = InlineKeyboardMarkup(buttons)
 #     await message.reply_text(START_MESSAGE.format(message.from_user.mention, message.chat.title),
