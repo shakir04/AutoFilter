@@ -7,7 +7,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /AutoFilter
 fi
-cd /Lucy
+cd /AutoFilter
 pip3 install -U -r requirements.txt
 echo "sᴛᴀʀᴛɪɴɢ ʟᴜᴄʏ ʙᴏᴛ...."
 python3 bot.py
